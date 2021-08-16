@@ -10,7 +10,7 @@ Build OpenWrt using GitHub Actions
 基于[kernel5.4-nss-qsdk10.0](https://github.com/ACwifidude/openwrt)固件编译
 |IP|用户名|密码|
 |:--:|:--:|:--:|
-|10.0.0.1|root|空|
+|192.168.10.1|root|空|
 
 
 ## License
